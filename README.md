@@ -8,10 +8,7 @@ This app is based on the official PyTorch example:
 - **Fast Neural Style**  
   https://github.com/pytorch/examples/tree/main/fast_neural_style  
 
-And uses Streamlit for the frontend:
-
-- **Streamlit**  
-  https://streamlit.io
+And uses Streamlit for the frontend.
 
 
 ## Installation
